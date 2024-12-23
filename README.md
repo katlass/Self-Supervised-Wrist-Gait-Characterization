@@ -6,6 +6,9 @@
 
 ● Designed an end-to-end pipeline for gait classification and speed prediction, achieving 0.93 F1 and 0.03 RMSE across participants
 
+![Workflow](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/workflow_figure.png)
+
+
 ## Repository Directory Overview
 Wrist: Contains scripts for mapping lower-back model labels to wrist data and performing activity classification and gait speed prediction. The script for final wrist activity classification is stored in SSL_Wrist-Based_Activity_Classification.ipynb, while the script for final walking speed predictions is stored in gait_speed_OLS.ipynb. There are also several files in that directory that show the model development of the DCNN including different loss functions and ways to address class imbalance.
 
@@ -15,6 +18,10 @@ Visualizations: Stores scripts for exploratory data analysis, focusing on visual
 
 full_pipeline_public.ipynb: A comprehensive notebook compiling all lower-back and wrist data processing steps, as well as final models, into a single pipeline
 
+## Results
+
+![Results](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/result_metrics.png)
+
+![State Sequence Predictions vs Raw Acceleration Signal](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/state_sequence_prediction.png)
 
 ![OLS Speed](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/gait_speed_visual.png)
-![State Sequence Predictions vs Raw Acceleration Signal](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/state_sequence_prediction.png)
