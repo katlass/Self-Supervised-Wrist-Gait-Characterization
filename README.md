@@ -15,3 +15,5 @@ Visualizations: Stores scripts for exploratory data analysis, focusing on visual
 
 full_pipeline_public.ipynb: A comprehensive notebook compiling all lower-back and wrist data processing steps, as well as final models, into a single pipeline
 
+
+![OLS Speed](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/gait_speed_visual.png)
