@@ -4,12 +4,10 @@
 
 ● Self-supervised wrist labels derived from lumbar sensors with signal preprocessing, dynamic thresholding and peak detection
 
-● Designed an end-to-end pipeline for gait classification and speed prediction, achieving 0.93 F1 and 0.03 RMSE across participants
-
+● Designed an end-to-end pipeline for gait classification and speed prediction, achieving 0.93 F1 and 0.03 RMSE across participants <br>
 
 ![Workflow](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/workflow_figure.png)
-
-
+ <br>
 
 ## Repository Directory Overview
 Wrist: Contains scripts for mapping lower-back model labels to wrist data and performing activity classification and gait speed prediction. The script for final wrist activity classification is stored in SSL_Wrist-Based_Activity_Classification.ipynb, while the script for final walking speed predictions is stored in gait_speed_OLS.ipynb. There are also several files in that directory that show the model development of the DCNN including different loss functions and ways to address class imbalance.
