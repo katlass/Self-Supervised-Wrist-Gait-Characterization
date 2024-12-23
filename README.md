@@ -17,3 +17,4 @@ full_pipeline_public.ipynb: A comprehensive notebook compiling all lower-back an
 
 
 ![OLS Speed](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/gait_speed_visual.png)
+![State Sequence Predictions vs Raw Acceleration Signal](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/state_sequence_prediction.png)
