@@ -6,7 +6,9 @@
 
 ● Designed an end-to-end pipeline for gait classification and speed prediction, achieving 0.93 F1 and 0.03 RMSE across participants
 
+
 ![Workflow](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/workflow_figure.png)
+
 
 
 ## Repository Directory Overview
