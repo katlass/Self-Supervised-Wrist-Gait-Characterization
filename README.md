@@ -31,8 +31,11 @@
 - full_pipeline_public.ipynb: A comprehensive notebook compiling all lower-back and wrist data processing steps, as well as final models, into a single pipeline
 
 ## Results
-[State Sequence Predictions vs Raw Acceleration Signal](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/state_sequence_prediction.png)
+### State Sequence Predictions vs Raw Acceleration Signal
+![State Sequence Predictions vs Raw Acceleration Signal](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/state_sequence_prediction.png)
+
 
 ![Results](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/result_metrics.png)
 
+### Wrist Speed Prediction with OLS
 ![OLS Speed](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/gait_speed_visual.png)
