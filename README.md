@@ -1,12 +1,12 @@
 # Johnson & Johnson, Signal Processing and Machine Learning for Wrist Sensor Gait Analysis
 
-Specific Aims
+## Specific Aims
 - Apply open source lower back gait detection algorithms to partially labeled lower back data to validate best approach for generating labels for the whole dataset
 - Use generated labels from lower back model to train a custom DCNN to make gait detection predictions on unsupervised wrist-worn sensor data
 - Based on this self-supervised learning approach, use the data from predicted walking bouts to characterize subjects’ gait focusing on walking speed
 
 
-Accomplishments
+## Accomplishments
 
 - Built state-of-the-art DCNNs on terabytes of data with transfer learning, oversampling, and custom loss functions for gait classification
 
