@@ -3,18 +3,18 @@
 ## Specific Aims
 
 - Apply open source lower back gait detection algorithms to partially labeled lower back data to validate best approach for generating labels for the whole dataset
-- 
+  
 - Use generated labels from lower back model to train a custom DCNN to make gait detection predictions on unsupervised wrist-worn sensor data
-- 
+ 
 - Based on this self-supervised learning approach, use the data from predicted walking bouts to characterize subjects’ gait focusing on walking speed
 
 
 ## Accomplishments
 
 - Built state-of-the-art DCNNs on terabytes of data with transfer learning, oversampling, and custom loss functions for gait classification
-- 
+  
 - Self-supervised wrist labels derived from lumbar sensors with signal preprocessing, dynamic thresholding and peak detection
-- 
+  
 - Designed an end-to-end pipeline for gait classification and speed prediction, achieving 0.93 F1 and 0.03 RMSE across participants <br>
 
 ![Workflow](https://github.com/katlass/Self-Supervised-Wrist-Gait-Characterization/blob/main/Visualizations/workflow_figure.png)
